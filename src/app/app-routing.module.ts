@@ -4,6 +4,7 @@ import { AboutUsComponent } from "./about-us/about-us.component";
 import { BookingComponent } from "./booking/booking.component";
 import { ContactComponent } from "./contact/contact.component";
 import { LandingComponent } from "./landing/landing.component";
+import { LocationsComponent } from "./locations/locations.component";
 import { PaymentsComponent } from "./payments/payments.component";
 import { PricingComponent } from "./pricing/pricing.component";
 import { ProjectsComponent } from "./projects/projects.component";

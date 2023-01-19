@@ -18,6 +18,7 @@ import { LeadFormComponent } from './lead-form/lead-form.component';
 import { AcheivmentsComponent } from './acheivments/acheivments.component';
 import { BookingComponent } from './booking/booking.component';
 import { CalendlyWidgetComponent } from './calendly-widget/calendly-widget.component';
+import { LocationsComponent } from './locations/locations.component';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { CalendlyWidgetComponent } from './calendly-widget/calendly-widget.compo
     LeadFormComponent,
     AcheivmentsComponent,
     BookingComponent,
-    CalendlyWidgetComponent
+    CalendlyWidgetComponent,
+    LocationsComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
